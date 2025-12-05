@@ -1,2 +1,2 @@
 # Tamagotchi-in-revision
-I started with the button template and I wanted the Tamagotchi to transform into a transparent creature (maybe a frog) in a Japanese garden where maple leaves were falling in the Fall. In the code, it captures every mouse press on the area that I have difined.
+I adapted a button template into an interactive scene where a Tamagotchi-like creature turns into a transparent frog in a fall Japanese garden. Mouse press detection in a defined area drives its transformations and adds quiet, character based play.
